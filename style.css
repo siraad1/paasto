@@ -1,0 +1,41 @@
+.intro{
+  font-style: italic;
+}
+h3.author{
+  color: red;
+}
+p{
+  color: blue;
+  font-size: 15px;
+}
+.arday{
+  color: green;
+}
+p.arday{
+  color: orange;
+}
+
+.cats p{
+  background-color: coral;
+  color: green;
+}
+.dogs p{
+  background-color: steelblue;
+  color: yellow;
+}
+.cats p a{
+  font-weight: bold;
+  color: blue;
+}
+.dogs p a{
+  font-style: italic;
+  color: red;
+}
+img{
+  float: left;
+}
+.sidebar{
+  width: 30%;
+float: right;
+background-color: yellow;
+}
